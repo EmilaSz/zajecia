@@ -1,0 +1,70 @@
+---
+title: "cv"
+author: "Emila"
+date: "2026-11-24"
+output: html_document
+---
+
+# Imię Nazwisko
+
+**Email:** twoj.email@example.com
+**Telefon:** +48 123 456 789
+**Lokalizacja:** Poznan, Polska
+
+## Podsumowanie
+Krótki, zwięzły opis Twojego doświadczenia, umiejętności i celów zawodowych.
+
+## Doświadczenie zawodowe
+
+### Nazwa Stanowiska | Firma
+*Okres zatrudnienia (np. Styczeń 2020 - Obecnie)*
+
+- Kluczowe osiągnięcia i obowiązki
+- Opis projektów i odpowiedzialności
+- Wymierne efekty pracy (np. zwiększenie wydajności o X%)
+
+### Poprzednie Stanowisko | Inna Firma
+*Okres zatrudnienia*
+
+- Główne zadania
+- Osiągnięcia
+- Zdobyte umiejętności
+
+## Edukacja
+- Technikum Informatczne
+- Studia Informatyczne
+
+### Tytuł Studiów | Nazwa Uczelni
+*Rok ukończenia*
+
+- Informatyka
+- Średnia ocen
+- Istotne osiągnięcia akademickie- Zdanie ;)
+
+## Umiejętności
+
+- **Techniczne:** Python, R, SQL, Git
+- **Miękkie:** Komunikacja, praca zespołowa, rozwiązywanie problemów
+- **Języki:** Polski (ojczysty), Angielski (B2)
+
+## Certyfikaty
+
+- Nazwa Certyfikatu, Instytucja, Rok
+- Kolejny Certyfikat
+
+## Projekty
+
+### Nazwa Projektu
+- Krótki opis
+- Technologie użyte
+- Link do repozytorium (opcjonalnie)
+
+## Zainteresowania
+
+- Drób ozdobny
+- Gry komputerowe
+- Pływanie
+- Sztuka
+
+## Referencje
+Dostępne na życzenie
